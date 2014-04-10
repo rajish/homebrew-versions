@@ -2,7 +2,7 @@ require 'formula'
 
 class Cassandra12 < Formula
   homepage 'http://cassandra.apache.org'
-  url 'http://www.apache.org/dyn/closer.cgi?path=/cassandra/1.2.15/apache-cassandra-1.2.15-bin.tar.gz'
+  url 'http://www.apache.org/dyn/closer.cgi?path=/cassandra/1.2.16/apache-cassandra-1.2.16-bin.tar.gz'
   sha1 '717487325aab8df2c1ca0da71d567e0ea656733c'
 
   conflicts_with 'cassandra',
